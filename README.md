@@ -75,11 +75,11 @@ I keep the promise.”
 ## 🤝 Connect With Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/monica-njoki" target="_blank">
+<a href="https://www.linkedin.com/in/monica njoki" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:monicanjoki910@gmail.com" target="_blank">
+<a href="mailto:monicanjoki014@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -87,6 +87,5 @@ I keep the promise.”
 ---
 
 ### 💬 Fun Fact  
-I’m building a future where robots can dance in the rain and AI never forgets.  
-Because I'm a promise keeper. 🤍🔥
+I’m building a future where robots can dance in the rain and AI never forgets.🤍🔥
 
