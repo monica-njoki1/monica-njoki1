@@ -2,8 +2,11 @@
 <h3 align="center">Full-Stack Developer | AI Innovator | Future Robotics Engineer</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" />
+  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
+    <img src="https://i.imgur.com/jNNT4Le.png" width="100%" />
+  </a>
 </p>
+
 
 
 
