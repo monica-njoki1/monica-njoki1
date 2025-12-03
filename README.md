@@ -97,5 +97,5 @@ I keep the promise.”
 ---
 
 ### 💬 Fun Fact  
-I’m building a future where robots can dance in the rain and AI never forgets.🤍
+I’m building a future where robots can dance in the rain and AI never forgets, I mean more human like Tech.🤍
 
