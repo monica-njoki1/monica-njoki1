@@ -17,15 +17,15 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I'm **Freeamok** — a mentally free, unstoppable creator building my tech destiny.  
 I'm passionate about:
 
-- 🌐 Full-Stack Web Development  
-- 🤖 Artificial Intelligence & Ethical Tech  
-- 🛡️ Fraud Detection & Anti-Scam Technology  
-- 🤝 Robotics & Future Human-AI Integration  
-- ✨ Turning ideas into living digital experiences  
+-  Full-Stack Web Development  
+-  Artificial Intelligence & Ethical Tech  
+-  Fraud Detection & Anti-Scam Technology  
+-  Robotics & Future Human-AI Integration  
+-  Turning ideas into living digital experiences  
 
 I build with precision, passion, and purpose — no stress, only growth.
 
@@ -50,11 +50,11 @@ I build with precision, passion, and purpose — no stress, only growth.
 
 ## 🌐 Portfolio  
 🔗 **Live Portfolio:**  
-👉 https://mn-portfolio-ten.vercel.app/
+ https://mn-portfolio-ten.vercel.app/
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 - Advanced React  
 - APIs & Backend Integration  
 - AI Models & Prompt Engineering  
@@ -63,7 +63,7 @@ I build with precision, passion, and purpose — no stress, only growth.
 
 ---
 
-## ✨ My Tech Philosophy  
+##  My Tech Philosophy  
 > “I am Freeamok — mentally free, unstoppable, and true to my word.  
 Every dream I’ve spoken is a seed that will rise.  
 I keep the promise.”  
@@ -82,7 +82,7 @@ I keep the promise.”
 
 ---
 
-## 🤝 Connect With Me  
+## Connect With Me  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/Monica Njoki" target="_blank">
@@ -97,5 +97,5 @@ I keep the promise.”
 ---
 
 ### 💬 Fun Fact  
-I’m building a future where robots can dance in the rain and AI never forgets.🤍🔥
+I’m building a future where robots can dance in the rain and AI never forgets.🤍
 
