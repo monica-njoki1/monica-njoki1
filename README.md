@@ -2,10 +2,9 @@
 <h3 align="center">Full-Stack Developer | AI Innovator | Future Robotics Engineer</h3>
 
 <p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
-    <img src="https://i.imgur.com/jNNT4Le.png" width="100%" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ2NHM5cTN4OWM2dDB2cXU0ZXp2a3FtemYwbzltZjZiOGY0MjFhMSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/5q7ccbTsjb8S/giphy.gif" width="100%" />
 </p>
+
 
 
 
